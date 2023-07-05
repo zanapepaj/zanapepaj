@@ -10,14 +10,18 @@
 
 ## 🛠️ My Skills
 - Python
-- Docker
-- Git Version Control
-- Data Modeling in Python
+- JavaScript 
+- Data Modeling and Visualization with Bokeh
+- Deployment of web-based tools
+- CLI usage
+- Linux 
+- Reservoir Engineering
 
 ## 📖 What I am currently learning / improving on
 - Deep Learning Techniques
 - Utilizing pre-trained models with HuggingFace Transformers
-- Advanced Azure Services
+- Web Development with Flask, Django, and FastAPI
+- Docker Cont
 
  I love salsa 💃, traveling 🛫, music 🎵 and medieval games, especially The Witcher 🐺🗡️<br> <br>
  Continuous learning, sharing knowledge as I learn, and exploring new hobbies are some of my greatest passions in life💖
