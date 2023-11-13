@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanapepaj&label=Profile%20views&color=0e75b6&style=flat" alt="zanapepaj" /> </p>
 
 
- I'm currently working as an Reservoir & Data Scientist at Resman. <br>
+ I'm currently working as an Reservoir Engineer at Equinor. <br>
 
 ## 🛠️ My Skills
 - Python
